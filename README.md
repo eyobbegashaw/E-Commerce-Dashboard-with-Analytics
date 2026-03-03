@@ -1,0 +1,1 @@
+# AI-Powered-Amharic-Sentiment-Analyzer
